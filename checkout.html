@@ -345,14 +345,17 @@
         }
 
         .form-field {
-            margin-bottom: 10px
+            margin-bottom: 16px;
+            display: flex;
+            flex-direction: column;
         }
 
         .form-label {
             display: block;
-            font-size: 11px;
+            font-size: 12px;
             color: var(--text-muted);
-            margin-bottom: 4px
+            margin-bottom: 6px;
+            font-weight: 600;
         }
 
         .form-input {
@@ -363,6 +366,7 @@
             font-size: 13px;
             outline: none;
             background: #f8faff;
+            transition: border 0.2s ease;
         }
 
         .form-input::placeholder {
@@ -372,6 +376,42 @@
         .form-input:focus {
             border-color: var(--green-main);
             background: #fff
+        }
+
+        .phone-field {
+            display: flex;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            overflow: hidden;
+            background: #fff;
+        }
+
+        .country-code {
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+            background: #f6f7f9;
+            border-right: 1px solid #e5e7eb;
+            font-size: 14px;
+            color: #333;
+            gap: 6px;
+        }
+
+        .country-code img {
+            width: 22px;
+            height: 16px;
+            object-fit: cover;
+            border-radius: 3px;
+        }
+
+        .phone-input {
+            border: none;
+            flex: 1;
+            padding: 14px;
+        }
+
+        .phone-input:focus {
+            outline: none;
         }
 
         .form-row-2 {
@@ -937,6 +977,36 @@
                 overflow: hidden;
             }
         }
+
+        .email-field-wrapper {
+            position: relative;
+        }
+
+        .email-suggestions {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: #fff;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            margin-top: 6px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+            display: none;
+            z-index: 999;
+            overflow: hidden;
+        }
+
+        .email-suggestions div {
+            padding: 10px 14px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background 0.15s ease;
+        }
+
+        .email-suggestions div:hover {
+            background: #f3f4f6;
+        }
     </style>
 </head>
 
@@ -1019,18 +1089,33 @@
                     </div>
 
                     <div class="form-field">
-                        <input id="nome-completo" class="form-input" type="text" placeholder="Nome completo" />
+                        <label for="nome-completo" class="form-label">Nome completo</label>
+                        <input id="nome-completo" class="form-input" type="text" placeholder="Ex: Maria da Silva" />
+                    </div>
+
+                    <div class="form-field email-field-wrapper">
+                        <label for="email" class="form-label">E-mail</label>
+
+                        <input id="email" class="form-input email-input" type="email" placeholder="Ex: maria@email.com"
+                            autocomplete="off" />
+
+                        <div id="email-suggestions" class="email-suggestions"></div>
                     </div>
 
                     <div class="form-field">
-                        <input id="email" class="form-input" type="email" placeholder="E-mail" />
+                        <label for="whatsapp" class="form-label">Celular / WhatsApp</label>
+
+                        <div class="phone-field">
+                            <div class="country-code">
+                                <img src="https://i.ibb.co/wZD7Xt63/Flag-of-Brazil.png" alt="BR" />
+                                <span>+55</span>
+                            </div>
+
+                            <input id="whatsapp" class="form-input phone-input" type="tel"
+                                placeholder="(11) 96123-4567" />
+                        </div>
                     </div>
 
-                    <div class="form-field form-row-2">
-                        <input class="form-input" style="max-width:80px;text-align:center;" type="text" value="+55"
-                            readonly />
-                        <input id="whatsapp" class="form-input" type="tel" placeholder="(11) 96123-4567" />
-                    </div>
 
                     <button class="btn-main" onclick="goToStep(2)">Continuar</button>
                 </div>
@@ -1135,22 +1220,44 @@
                     <div class="card-title">Endereço de entrega</div>
 
                     <div class="form-field">
-                        <input id="cep" class="form-input" type="text" placeholder="CEP" />
+                        <label for="cep" class="form-label">CEP</label>
+                        <input id="cep" class="form-input" type="text" placeholder="00000-000" />
                     </div>
+
                     <div class="form-field">
+                        <label for="rua" class="form-label">Rua</label>
                         <input id="rua" class="form-input" type="text" placeholder="Rua, Avenida, etc." />
                     </div>
-                    <div class="form-row-2 form-field">
-                        <input id="numero" class="form-input" type="text" placeholder="Número" />
-                        <input id="complemento" class="form-input" type="text" placeholder="Apto, Bloco, etc." />
+
+                    <div class="form-row-2">
+                        <div class="form-field">
+                            <label for="numero" class="form-label">Número</label>
+                            <input id="numero" class="form-input" type="text" placeholder="123" />
+                        </div>
+
+                        <div class="form-field">
+                            <label for="complemento" class="form-label">Complemento</label>
+                            <input id="complemento" class="form-input" type="text" placeholder="Apto, Bloco, etc." />
+                        </div>
                     </div>
+
                     <div class="form-field">
-                        <input id="bairro" class="form-input" type="text" placeholder="Bairro" />
+                        <label for="bairro" class="form-label">Bairro</label>
+                        <input id="bairro" class="form-input" type="text" placeholder="Seu bairro" />
                     </div>
-                    <div class="form-row-2 form-field">
-                        <input id="cidade" class="form-input" type="text" placeholder="Cidade" />
-                        <input id="estado" class="form-input" type="text" placeholder="UF" />
+
+                    <div class="form-row-2">
+                        <div class="form-field">
+                            <label for="cidade" class="form-label">Cidade</label>
+                            <input id="cidade" class="form-input" type="text" placeholder="Sua cidade" />
+                        </div>
+
+                        <div class="form-field">
+                            <label for="estado" class="form-label">Estado</label>
+                            <input id="estado" class="form-input" type="text" placeholder="UF" />
+                        </div>
                     </div>
+
 
                     <div class="pix-benefits" style="margin-top:6px;">
                         <div class="pix-benefit-line">
@@ -2067,6 +2174,55 @@
         })();
     </script>
 
+    <script>
+        const emailInput = document.getElementById("email");
+        const suggestionsBox = document.getElementById("email-suggestions");
+
+        const domains = [
+            "@gmail.com",
+            "@hotmail.com",
+            "@outlook.com",
+            "@yahoo.com",
+            "@icloud.com"
+        ];
+
+        emailInput.addEventListener("input", () => {
+            const value = emailInput.value.toLowerCase();
+            suggestionsBox.innerHTML = "";
+
+            if (!value || !value.includes("@")) {
+                suggestionsBox.style.display = "none";
+                return;
+            }
+
+            const [name, domainPart] = value.split("@");
+
+            if (!name) return;
+
+            domains.forEach(domain => {
+                if (domain.includes("@" + domainPart)) {
+                    const suggestion = document.createElement("div");
+                    suggestion.textContent = name + domain;
+
+                    suggestion.onclick = () => {
+                        emailInput.value = suggestion.textContent;
+                        suggestionsBox.style.display = "none";
+                    };
+
+                    suggestionsBox.appendChild(suggestion);
+                }
+            });
+
+            suggestionsBox.style.display = suggestionsBox.children.length ? "block" : "none";
+        });
+
+        // Fechar sugestões ao clicar fora
+        document.addEventListener("click", (e) => {
+            if (!e.target.closest(".email-field-wrapper")) {
+                suggestionsBox.style.display = "none";
+            }
+        });
+    </script>
 
 
 </body>
