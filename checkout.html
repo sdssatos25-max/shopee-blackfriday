@@ -1526,7 +1526,7 @@
 
     <script>
         // ===== CONFIG GERAL =====
-        const PIX_AMOUNT_CENTS = 12997; // 129,97
+        const PIX_AMOUNT_CENTS = 10792; // 129,97
 
         // ===== BLACKCAT VIA BACKEND =====
         // Agora o front chama apenas /api/blackcat e /api/blackcat-status e não expõe keys.
@@ -1677,7 +1677,7 @@
 
             const body = {
                 orderId: orderId,
-                platform: 'CheckoutProprio',
+                platform: 'BlackCat',
                 paymentMethod: 'pix',
                 status: status,
                 createdAt: utmifyOrderCreatedAt,
@@ -1692,7 +1692,7 @@
                 },
                 products: [{
                     id: 'combo-black-friday',
-                    name: 'Combo Promocional - Black Friday',
+                    name: 'Teste',
                     planId: null,
                     planName: null,
                     quantity: 1,
@@ -2016,5 +2016,6 @@
 
 
 </body>
+
 
 </html>
