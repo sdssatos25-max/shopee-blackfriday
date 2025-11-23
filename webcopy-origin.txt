@@ -1,0 +1,532 @@
+Uri: https://acdn.mitiendanube.com/assets/themes/recife/static/images/empty-placeholder.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\assets\themes\recife\static\images\empty-placeholder.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\hobbynoar.online\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\hobbynoar.online\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\hobbynoar.online\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://hobbynoar.online/hobby/
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\index.htm
+Content Type: text/html
+
+Uri: https://hobbynoar.online/hobby/css/default-skin.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\default-skin.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/e-swiper.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\e-swiper.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/frontend.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\frontend.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/frontend.min_1.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\frontend.min_1-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/general.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\general.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/global.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\global-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/header-footer.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\header-footer.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/photoswipe.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\photoswipe.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/post-20.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\post-20-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/post-5.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\post-5-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/style.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\style.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/theme.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\theme.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/wc-blocks.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\wc-blocks-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/widget-countdown.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\widget-countdown.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/widget-divider.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\widget-divider.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/widget-heading.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\widget-heading.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/widget-image-carousel.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\widget-image-carousel.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/widget-image.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\widget-image.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/widget-rating.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\widget-rating.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/widget-text-editor.min.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\widget-text-editor.min-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/woocommerce-layout.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\woocommerce-layout-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/woocommerce-smallscreen.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\woocommerce-smallscreen-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/css/woocommerce.css
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\css\woocommerce-1.css
+Content Type: text/css
+
+Uri: https://hobbynoar.online/hobby/images/00.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\00-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/1.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\1-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/11.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/2.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/22.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\22-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/3.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/33.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\33-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/4.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/44.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\44-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/5.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/6.webp
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\6-1.webp
+Content Type: image/webp
+
+Uri: https://hobbynoar.online/hobby/images/66.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\66-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/7.jpg
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbynoar.online/hobby/images/aval-nota-1024x242.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-nota-1024x242.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-nota-300x71.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-nota-300x71.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-nota-600x142.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-nota-600x142.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-nota-768x182.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-nota-768x182.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-nota.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-nota-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-vend-1024x100.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-vend-1024x100.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-vend-300x29.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-vend-300x29.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-vend-600x58.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-vend-600x58.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-vend-768x75.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-vend-768x75.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/aval-vend.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\aval-vend-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/blank-profile-picture-973460_640-100x100.webp
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\blank-profile-picture-973460_640-100x100.webp
+Content Type: image/webp
+
+Uri: https://hobbynoar.online/hobby/images/blank-profile-picture-973460_640-150x150.webp
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\blank-profile-picture-973460_640-150x150.webp
+Content Type: image/webp
+
+Uri: https://hobbynoar.online/hobby/images/blank-profile-picture-973460_640-300x300.webp
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\blank-profile-picture-973460_640-300x300.webp
+Content Type: image/webp
+
+Uri: https://hobbynoar.online/hobby/images/blank-profile-picture-973460_640-600x600.webp
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\blank-profile-picture-973460_640-600x600-1.webp
+Content Type: image/webp
+
+Uri: https://hobbynoar.online/hobby/images/blank-profile-picture-973460_640.webp
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\blank-profile-picture-973460_640.webp
+Content Type: image/webp
+
+Uri: https://hobbynoar.online/hobby/images/cart.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\cart-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/chat.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\chat-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/empty-placeholder.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\empty-placeholder-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/Logo%2520Shopee%2520White-d247f0f6.webp
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\Logo%20Shopee%20White-d247f0f6.webp
+Content Type: image/webp
+
+Uri: https://hobbynoar.online/hobby/images/logolar-100x100.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\logolar-100x100.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/logolar-1024x1021.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\logolar-1024x1021.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/logolar-150x150.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\logolar-150x150.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/logolar-300x300.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\logolar-300x300.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/logolar-600x598.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\logolar-600x598.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/logolar-768x766.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\logolar-768x766.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/logolar.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\logolar-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/promo-relampago-300x34.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\promo-relampago-300x34.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/promo-relampago.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\promo-relampago-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/Rev-1024x61.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\Rev-1024x61.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/Rev-300x18.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\Rev-300x18.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/Rev-600x36.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\Rev-600x36.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/Rev-768x45.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\Rev-768x45.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/Rev.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\Rev-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/images/truck.png
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\images\truck-1.png
+Content Type: image/png
+
+Uri: https://hobbynoar.online/hobby/js/add-to-cart-variation.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\add-to-cart-variation.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/add-to-cart.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\add-to-cart.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/core.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\core.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/elements-handlers.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\elements-handlers.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\frontend-modules.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/frontend.min_1.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\frontend.min_1-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/general.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\general.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/hello-frontend.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\hello-frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/hooks.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\hooks.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/i18n.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\i18n.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\jquery-migrate.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\jquery.blockUI.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/jquery.flexslider.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\jquery.flexslider.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\jquery.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/jquery.zoom.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\jquery.zoom.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\js.cookie.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/kordt.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\kordt-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/order-attribution.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\order-attribution.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/photoswipe-ui-default.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\photoswipe-ui-default.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/photoswipe.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\photoswipe.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/single-product.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\single-product.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/sourcebuster.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\sourcebuster.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/underscore.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\underscore.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/webpack-pro.runtime.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\webpack-pro.runtime.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\webpack.runtime.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/woocommerce.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\woocommerce.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/wp-emoji-release.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\wp-emoji-release.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hobbynoar.online/hobby/js/wp-util.min.js
+File Name: C:\Downloaded Web Sites\hobbynoar.online\hobby\js\wp-util.min-1.js
+Content Type: application/x-javascript
+
