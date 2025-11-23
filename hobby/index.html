@@ -11,7 +11,7 @@
 <script type="text/javascript">
   if (!navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry|IEMobile)/) && window.innerWidth > 768) {
     window.location.href = 'http://www.shopee.com.br/';
-}
+}	
 </script> -->
 
 	<meta charset="UTF-8">
@@ -2494,7 +2494,41 @@
 			});
 		</script>
 
+<script>
+(function() {
+  const params = window.location.search;
 
+  if (!params) return;
+
+  document.addEventListener("click", function(e) {
+    let el = e.target.closest("a, button");
+    if (!el) return;
+
+    // Caso seja <a>
+    if (el.tagName === "A" && el.href) {
+      if (el.href.indexOf("?") === -1) {
+        el.href += params;
+      } else {
+        el.href += "&" + params.substring(1);
+      }
+    }
+
+    // Caso seja botão com data-link
+    if (el.tagName === "BUTTON" && el.dataset.link) {
+      let link = el.dataset.link;
+
+      if (link.indexOf("?") === -1) {
+        link += params;
+      } else {
+        link += "&" + params.substring(1);
+      }
+
+      window.location.href = link;
+      e.preventDefault();
+    }
+  });
+})();
+</script>
 
 
 </body>
