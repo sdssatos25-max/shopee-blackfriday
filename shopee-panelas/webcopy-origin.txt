@@ -1,0 +1,128 @@
+Uri: https://dezembro-premiado.shop/50xGkN8D/icone-black-friday.png
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\50xGkN8D\icone-black-friday.png
+Content Type: image/png
+
+Uri: https://dezembro-premiado.shop/ajax/libs/gsap/1.16.1/TweenMax.min.js
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\ajax\libs\gsap\1.16.1\TweenMax.min.js
+Content Type: application/x-javascript
+
+Uri: https://dezembro-premiado.shop/K8x1ddrN/logo-shopee.png
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\K8x1ddrN\logo-shopee.png
+Content Type: image/png
+
+Uri: https://dezembro-premiado.shop/npm/swiper%408/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\npm\swiper@8\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://dezembro-premiado.shop/npm/swiper%408/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\npm\swiper@8\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\index.htm
+Content Type: text/html
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/alexandre.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\alexandre.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/aniele.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\aniele.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/av1.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\av1.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/av2.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\av2.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/av3.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\av3.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/av4.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\av4.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/av5.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\av5.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/av6.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\av6.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/banner.png
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\banner.png
+Content Type: image/png
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/default-user.webp
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\default-user.webp
+Content Type: image/webp
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/favicon.png
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\favicon.png
+Content Type: image/png
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/gladielle.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\gladielle.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/kit-panelas.png
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\kit-panelas.png
+Content Type: image/png
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/laura.jpg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\laura.jpg
+Content Type: image/jpeg
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/pd2.webp
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\pd2.webp
+Content Type: image/webp
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/pd3.webp
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\pd3.webp
+Content Type: image/webp
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/pd4.webp
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\pd4.webp
+Content Type: image/webp
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/pd5.webp
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\pd5.webp
+Content Type: image/webp
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/images/pd6.webp
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\images\pd6.webp
+Content Type: image/webp
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/index.css
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\index.css
+Content Type: text/css
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/timer.css
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\timer.css
+Content Type: text/css
+
+Uri: https://dezembro-premiado.shop/shopee/panelas-ceramica/timer.js
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\panelas-ceramica\timer.js
+Content Type: application/x-javascript
+
+Uri: https://dezembro-premiado.shop/shopee/shopee-mobilemall-live-sg/productdetailspage/2a5afa7c48cac075199d.png
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\shopee-mobilemall-live-sg\productdetailspage\2a5afa7c48cac075199d.png
+Content Type: image/png
+
+Uri: https://dezembro-premiado.shop/shopee/shopee-mobilemall-live-sg/rating/8221e9a289d23c23cef9.svg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\shopee-mobilemall-live-sg\rating\8221e9a289d23c23cef9.svg
+Content Type: image/svg+xml
+
+Uri: https://dezembro-premiado.shop/shopee/shopee-mobilemall-live-sg/rating/e795434a48ef42f9a279.svg
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\shopee\shopee-mobilemall-live-sg\rating\e795434a48ef42f9a279.svg
+Content Type: image/svg+xml
+
+Uri: https://pay.pagamentoseguroshop.store/4KovG1Q1KzQGyDE
+File Name: C:\Downloaded Web Sites\dezembro-premiado.shop\4KovG1Q1KzQGyDE
+Content Type: application/json
+
